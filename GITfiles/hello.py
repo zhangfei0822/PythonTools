@@ -1,4 +1,4 @@
-echo 'www.runoob.com'
-Second line
-Third line will be test again
-the end
+#  this is a test for git 
+print('hello world')
+print('this is a test for git ')
+print('hope it will go smoothly')
